@@ -8,6 +8,7 @@
  [![wakatime](https://wakatime.com/badge/user/a01cb09c-159d-4746-aa1a-83a2a5139f75.svg)](https://wakatime.com/@a01cb09c-159d-4746-aa1a-83a2a5139f75)
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai)](https://github.com/joesoftmwai/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai&show_icons=true&theme=radical)
 
 <!--
 **joesoftmwai/joesoftmwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

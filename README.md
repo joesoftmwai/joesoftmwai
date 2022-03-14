@@ -7,7 +7,7 @@
 
  [![wakatime](https://wakatime.com/badge/user/a01cb09c-159d-4746-aa1a-83a2a5139f75.svg)](https://wakatime.com/@a01cb09c-159d-4746-aa1a-83a2a5139f75)
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joesoftmwai)](https://github.com/joesoftmwai/github-readme-stats)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joesoftmwai&range=last_7_days)](https://github.com/joesoftmwai/github-readme-stats)
  
  ![Joesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai&show_icons=true)
  

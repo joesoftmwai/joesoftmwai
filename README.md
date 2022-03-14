@@ -7,6 +7,13 @@
 
  [![wakatime](https://wakatime.com/badge/user/a01cb09c-159d-4746-aa1a-83a2a5139f75.svg)](https://wakatime.com/@a01cb09c-159d-4746-aa1a-83a2a5139f75)
  
+ - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+ 
  ![Joesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai&show_icons=true&theme=radical)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joesoftmwai&layout=compact)](https://github.com/joesoftmwai/github-readme-stats)

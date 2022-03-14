@@ -9,7 +9,7 @@
  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joesoftmwai)](https://github.com/joesoftmwai/github-readme-stats)
  
- ![Joesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai&show_icons=true&theme=radical)
+ ![Joesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai&show_icons=true)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joesoftmwai&layout=compact)](https://github.com/joesoftmwai/github-readme-stats)
 
@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+&theme=radical
 -->

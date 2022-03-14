@@ -8,7 +8,7 @@
 
  [![wakatime](https://wakatime.com/badge/user/a01cb09c-159d-4746-aa1a-83a2a5139f75.svg)](https://wakatime.com/@a01cb09c-159d-4746-aa1a-83a2a5139f75)
  
- ![Joesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai&theme=radical&show_icons=true)
+ ![Joesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesoftmwai&theme=radical&show_icons=true&count_private=true)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joesoftmwai&layout=compact&langs_count=8)](https://github.com/joesoftmwai/github-readme-stats)
 

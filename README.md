@@ -6,6 +6,8 @@
 - 😄 Pronouns: Him
 
  [![wakatime](https://wakatime.com/badge/user/a01cb09c-159d-4746-aa1a-83a2a5139f75.svg)](https://wakatime.com/@a01cb09c-159d-4746-aa1a-83a2a5139f75)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joesoftmwai&repo=github-readme-stats)](https://github.com/joesoftmwai/github-readme-stats)
 
 
 <!--

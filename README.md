@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, it's Joesoft
+
+- 🔭 I’m currently working on an AI data management and analytics platform.
+- 🌱 I’m currently learning React, Vue Js, Laravel ...
+- 💬 Ask me about  Vue Js, React, Vanilla Js, Laravel, PHP MVC, Spring, MySQL, PostgreSQL ...
+- 😄 Pronouns: Him
 
 <!--
 **joesoftmwai/joesoftmwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

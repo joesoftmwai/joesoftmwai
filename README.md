@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on an AI data management and analytics platform.
 - 🌱 I’m currently learning React, Vue Js, Laravel ...
-- 💬 Ask me about  Vue Js, React, PWAs, Vanilla Js, Laravel, PHP MVC, Spring, MySQL, PostgreSQL ...
+- 💬 Ask me about  React, Vue Js, Redux, PWAs, Vanilla Js, Laravel, PHP MVC, Spring, MySQL, PostgreSQL ...
 - 😄 Pronouns: Him
-- ⚡ Fun fact: Maestro Web App Artisan.
+- ⚡ Fun fact: Maestro Mobile Web Artisan.
 
  [![wakatime](https://wakatime.com/badge/user/a01cb09c-159d-4746-aa1a-83a2a5139f75.svg)](https://wakatime.com/@a01cb09c-159d-4746-aa1a-83a2a5139f75)
  

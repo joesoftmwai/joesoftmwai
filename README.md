@@ -1,7 +1,7 @@
-### Hi there 👋, it's Joesoft
+### Hi there 👋, it's Joseph
 
 - 🔭 I’m currently working on an AI data management and analytics platform.
-- 🌱 I’m currently learning React, Vue Js, Laravel ...
+- 🌱 I’m currently learning Next Js, Node Js, Tanstack Query ...
 - 💬 Ask me about  React, Vue Js, Redux, PWAs, Vanilla Js, Laravel, PHP MVC, Spring, MySQL, PostgreSQL ...
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Maestro Mobile Web Artisan.
